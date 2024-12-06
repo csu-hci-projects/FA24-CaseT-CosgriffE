@@ -1,0 +1,39 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/HW2/Content/HW2.umap",
+				"E:/HW2/Content/MyBlueprints/Target.uasset",
+				"E:/HW2/Content/MyBlueprints/AmmoPistol.uasset",
+				"E:/HW2/Content/YouWin.umap",
+				"E:/HW2/Content/UI/TargetsDestroyed.uasset",
+				"E:/HW2/Content/UI/YouWinScreen.uasset",
+				"E:/HW2/Content/MyBlueprints/GrabbableSculpture.uasset",
+				"E:/HW2/Content/VRTemplate/Blueprints/VRPawn.uasset",
+				"E:/HW2/Content/UI/YouWin.uasset",
+				"E:/HW2/Content/UI/TargetsEliminated.uasset",
+				"E:/HW2/Content/MyBlueprints/BP_Target.uasset",
+				"C:/Users/tcase/OneDrive/Desktop/Senior Semester 1/Mixed Reality Design/Unreal Projects/HW2/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/tcase/OneDrive/Desktop/Senior Semester 1/Mixed Reality Design/Unreal Projects/HW2/Content/HW2Draft.umap",
+				"C:/Users/tcase/OneDrive/Desktop/Senior Semester 1/Mixed Reality Design/Unreal Projects/HW2/Content/HW2.umap",
+				"C:/Users/tcase/OneDrive/Desktop/Senior Semester 1/Mixed Reality Design/Unreal Projects/HW2/Content/MyBlueprints/GrabbableCube.uasset",
+				"C:/Users/tcase/OneDrive/Desktop/Senior Semester 1/Mixed Reality Design/Unreal Projects/HW2/Content/MyBlueprints/GrabbableSculpture.uasset",
+				"C:/Users/tcase/OneDrive/Desktop/Senior Semester 1/Mixed Reality Design/Unreal Projects/HW2/Content/MyBlueprints/Grabbabl.uasset",
+				"C:/Users/tcase/OneDrive/Desktop/Senior Semester 1/Mixed Reality Design/Unreal Projects/HW2/Content/MyBlueprints/GrabbableTable.uasset",
+				"C:/Users/tcase/OneDrive/Desktop/Senior Semester 1/Mixed Reality Design/Unreal Projects/HW2/Content/MyBlueprints/GrabbableChair.uasset",
+				"C:/Users/tcase/OneDrive/Desktop/Senior Semester 1/Mixed Reality Design/Unreal Projects/HW2/Content/MyBlueprints/GrabbableBiggerCube.uasset",
+				"C:/Users/tcase/OneDrive/Desktop/Senior Semester 1/Mixed Reality Design/Unreal Projects/HW2/Content/MyBlueprints/AmmoPistol.uasset",
+				"C:/Users/tcase/OneDrive/Desktop/Senior Semester 1/Mixed Reality Design/Unreal Projects/HW2/Content/VRTemplate/Input/IMC_Weapon_Right.uasset",
+				"C:/Users/tcase/OneDrive/Desktop/Senior Semester 1/Mixed Reality Design/Unreal Projects/HW2/Content/VRTemplate/Input/IMC_Weapon_Left.uasset",
+				"C:/Users/tcase/OneDrive/Desktop/Senior Semester 1/Mixed Reality Design/Unreal Projects/HW2/Content/IA_Reload_Left.uasset",
+				"C:/Users/tcase/OneDrive/Desktop/Senior Semester 1/Mixed Reality Design/Unreal Projects/HW2/Content/IA_Reload_Right.uasset",
+				"C:/Users/tcase/OneDrive/Desktop/Senior Semester 1/Mixed Reality Design/Unreal Projects/HW2/Content/MyBlueprints/Target.uasset",
+				"C:/Users/tcase/OneDrive/Desktop/Senior Semester 1/Mixed Reality Design/Unreal Projects/HW2/Content/MyMaterials/TargetHit.uasset",
+				"C:/Users/tcase/OneDrive/Desktop/Senior Semester 1/Mixed Reality Design/Unreal Projects/HW2/Content/MyBlueprints/BP_Target.uasset"
+			]
+		}
+	]
+}
